@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../.schema/plugin.yml
+
+npm: |-
+  @8p/github
+  @8p/auth
+  @8p/captcha
+  @8p/full
+  @8p/lang
+  @8p/pay
+  @8p/resend
+  @8p/token
+  @stripe/stripe-js
