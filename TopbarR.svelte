@@ -2,7 +2,7 @@
 > @8p/full:Full
   @8p/auth/btn/Auth.svelte
   @8p/lang/Lang.svelte
-  ~/Search.svelte
+  @8p/qy/Search.svelte
 </script>
 
 <template lang="pug">

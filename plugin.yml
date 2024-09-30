@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=../.schema/plugin.yml
 
 npm: |-
+  @8p/qy
   @8p/github
   @8p/auth
   @8p/captcha
