@@ -1,0 +1,32 @@
+{
+  "name": "@8n/site",
+  "version": "0.1.125",
+  "description": "i18n.site self",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n/site.git"
+  },
+  "homepage": "https://atomgit.com/i18n/site/tree/dev",
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "type": "module",
+  "peerDependencies": {
+    "@8p/qy": "^0.1.24",
+    "@8p/github": "^0.1.6",
+    "@8p/auth": "^0.3.73",
+    "@8p/captcha": "^0.3.13",
+    "@8p/full": "^0.3.8",
+    "@8p/lang": "^0.3.52",
+    "@8p/pay": "^0.3.38",
+    "@8p/resend": "^0.3.5",
+    "@8p/token": "^0.3.13",
+    "@stripe/stripe-js": "^4.8.0",
+    "@8p/page-blog": "^0.3.72",
+    "@8p/page-doc": "^0.3.69",
+    "@8p/page-md": "^0.3.6",
+    "@8p/page-toc": "^0.3.22"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
