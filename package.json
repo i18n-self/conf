@@ -1,6 +1,6 @@
 {
   "name": "@8n/site",
-  "version": "0.1.130",
+  "version": "0.1.147",
   "description": "i18n.site self",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "@8p/resend": "^0.3.5",
     "@8p/token": "^0.3.13",
     "@stripe/stripe-js": "^4.8.0",
-    "@8p/page-blog": "^0.3.73",
+    "@8p/page-blog": "^0.3.75",
     "@8p/page-doc": "^0.3.69",
     "@8p/page-md": "^0.3.6",
     "@8p/page-toc": "^0.3.22"
